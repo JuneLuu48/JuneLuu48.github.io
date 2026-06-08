@@ -1,66 +1,48 @@
 ---
 permalink: /
-title: ""
+title: "Hello, I'm June Luu"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello! 
 
-I'm Rafsun, a PhD student at the University of Newcastle, Australia. My supervisors are [Professor Shah J Miah](https://www.newcastle.edu.au/profile/shah-miah), [Professor James Skinner](https://www.newcastle.edu.au/profile/james-skinner) and [Peter Cook](https://www.linkedin.com/in/petercookaustralia/)
+I'm a Business Analytics graduate from the University of Newcastle, passionate about Business Analysis, ICT Business Analysis, and data-driven problem solving. I enjoy turning complex business challenges into structured insights, practical recommendations, and solutions that improve processes, systems, and decision-making.
 
-My research is based on Artificial Intelligence, Blockchain and Cybersecurity. 
+Through my internship with the Newcastle Knights (The Wests Group), I benchmarked 20+ business membership programs across 11 NRL and AFL clubs, identifying market gaps to support a 2-tier Business Club strategy forecast to improve corporate member retention by 20% and accelerate identification of a suitable program structure by 30%. I delivered an evidence-based proposal covering objectives, target market analysis, pricing strategy, KPIs, and a 3-year financial forecast.
 
+I've also completed hands-on projects in business process redesign, BI and ERP integration, NLP customer analysis, machine learning, and solution planning — giving me practical exposure to the intersection of business needs, technology, and performance improvement.
 
-I have completed my Bachelor of Science in Computer Science and Engineering from Military Institutue of Science and Technology ([MIST](https://mist.ac.bd/)), Dhaka, Bangladesh. My Bachelor thesis was based on Computer vision and I was supervised my Professor [Muhammad Nazrul Islam](https://mist.ac.bd/department/cse/facultyMembers/lt_col_muhammad_nazrul_islam_phd-47). I have served in the [Bangladesh Army](https://www.army.mil.bd/) as a Captain for 8+ years. I love to play Basketball, Badminton and Cricket in my free time.  
+**I'm currently seeking graduate or entry-level roles in Business Analysis, Data Analysis, Business Intelligence, and Reporting in Perth, WA.**
 
-**Research Interest**
-- Machine Learning and Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision and Image Processing
-- Blockchain Development
-- Human Computer Interaction
+---
 
-<!-- ## **Recent News**
-I am a Retired Captain from . 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## Experience
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Business Analyst Intern** | The Wests Group (Newcastle Knights) | Mar 2025 – Jul 2025
+- Benchmarked 20+ business membership programs across 11 NRL and AFL clubs to identify pricing strategies and competitive gaps
+- Conducted market analysis and segmented target audiences by geography, industry, and behaviour
+- Designed an annual engagement program with VIP hospitality, networking, and professional development events
+- Defined KPIs for customer satisfaction, sales performance, and marketing effectiveness
+- Developed a 3-year financial forecast and delivered a strategic proposal covering pricing, growth, and brand exposure
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
+## Education
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Bachelor of Business Analytics** (Distinction) | University of Newcastle | Feb 2023 – Dec 2025
+- GPA: 6.2 / 7.0
+- ASEAN Excellence Scholarship, 2024
+- Academy Global Business Simulation Competition, 2024
+- Key subjects: Big Data Analytics, Data Wrangling and Visualisation, Predictive Modelling in Business, Machine Intelligence, AI in Business, BI and Data Management, Business Process Modelling, Cybersecurity for Business, Data Governance Using Blockchain
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+---
 
-**Markdown generator**
+## Skills
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Business Analysis:** Stakeholder Engagement, Requirements Elicitation, Process Mapping, BPMN, AS-IS/TO-BE Analysis, Gap Analysis, UAT Support, Documentation, Agile/Scrum
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Technical:** Power BI, SQL, Excel, Tableau, Python, R Studio, Power Query, DAX, Machine Learning, JavaScript (Basic)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+**Languages:** English (Fluent) | Vietnamese (Native) | Mandarin (Fluent) | Cantonese (Advanced)
