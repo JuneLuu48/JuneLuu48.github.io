@@ -8,64 +8,54 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "MD Rafsun Sheikh"
+title                    : "June Luu"
 title_separator          : "-"
-name                     : &name "MD Rafsun Sheikh"
+name                     : &name "June Luu"
 description              : &description "personal description"
-url                      : https://rafsunsheikh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JuneLuu48.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rafsunsheikh/rafsunsheikh.github.io"
+repository               : "JuneLuu48/juneluu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.jpeg" # URL of your avatar image
-  name             : "MD Rafsun Sheikh"
-  pronouns         : "he/him" 
-  bio              : "Retired Captain at Bangladesh Army | Machine Learning & Blockchain Enthusiast | Researcher"
-  location         : "New South Wales, Australia"
-  employer         : "Bangladesh Army"
-  uri              : "https://www.linkedin.com/in/mdrafsunsheikh/"
-  email            : "rafsunsheikh116@gmail.com" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=apiNgDYAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Muhammad-Sheikh-51"
+  avatar           : "https://static.wixstatic.com/media/c53cc1_d5b2f9a6a20049c299927c15a6185e32~mv2.jpg/v1/fill/w_1004,h_606,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c53cc1_d5b2f9a6a20049c299927c15a6185e32~mv2.jpg" # URL of your avatar image
+  name             : "June Luu"
+  pronouns         : "She/Her" 
+  bio              : "Business Analyst Graduate"
+  location         : "Perth, Western Australia"
+  uri              : "https://www.linkedin.com/in/juneluu48/"
+  email            : "buuquan2004@gmail.com" 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "rafsunsheikh"
-  kaggle           : "rafsunsheikh"
+  github           : "JuneLuu48"
+  kaggle           : #N/A
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : "muhammad.r.sheikh.9"
+  facebook         : #N/A
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "rafsun.sheikh"
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : "mdrafsunsheikh"
+  linkedin         : "juneluu48"
   mastodon         : # URL
-  medium           : "@rafsunsheikh116"
+  medium           : # Username
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@rafsun_sheikh"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -281,8 +271,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: Australia/Perth # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
