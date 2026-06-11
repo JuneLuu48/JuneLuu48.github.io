@@ -1,24 +1,25 @@
 {
-  "name": "rafsunsheikh-portfolio-website",
+  "name": "juneluu48-portfolio-website",
   "version": "0.8.1.1",
-  "description": "MD Rafsun Sheikh Portfolio Mistakes Jekyll theme npm build scripts",
+  "description": "June Luu Portfolio Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rafsunsheikh/rafsunsheikh.github.io"
+    "url": "https://github.com/JuneLuu48/juneluu48.github.io"
   },
   "keywords": [
     "jekyll",
     "theme",
-    "minimal"
+    "portfolio",
+    "business-analytics"
   ],
   "contributors": [
-    "MD Rafsun Sheikh"
+    "June Luu"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rafsunsheikh/rafsunsheikh.github.io/issues"
+    "url": "https://github.com/JuneLuu48/juneluu48.github.io/issues"
   },
-  "homepage": "https://github.com/rafsunsheikh/rafsunsheikh.github.io",
+  "homepage": "https://JuneLuu48.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
