@@ -1,6 +1,12 @@
-# main navigation links
 main:
   - title: "About Me"
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
+
+docs:                        # ← this is the culprit
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  ...
