@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "June Luu"
 title_separator          : "-"
 name                     : &name "June Luu"
-description              : &description "personal description"
+description              : &description "Business Analytics graduate specialising in business analysis, data analysis, and BI reporting."
 url                      : https://JuneLuu48.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JuneLuu48/juneluu"
@@ -26,7 +26,7 @@ author:
   pronouns         : "She/Her" 
   bio              : "Business Analyst Graduate"
   location         : "Perth, Western Australia"
-  uri              : "https://www.linkedin.com/in/juneluu48/"
+  uri              : "https://www.linkedin.com/in/june-luu-55372227b/"
   email            : "buuquan2004@gmail.com" 
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "juneluu48"
+  linkedin         : "june-luu-55372227b"
   mastodon         : # URL
   medium           : # Username
   pinterest        : # Username
