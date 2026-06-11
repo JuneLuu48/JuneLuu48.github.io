@@ -3,10 +3,3 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
-
-docs:                        # ← this is the culprit
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
-  ...
