@@ -1,26 +1,6 @@
-# main links links
+# main navigation links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+  - title: "About Me"
+    url: /about/
   - title: "Portfolio"
     url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "About Me"
-    url: /about_me/
-
-  - title: "Play Mancala"
-    url: /mancala/
-    icon: "fa fa-gamepad"
-    
-  # - title: "Guide"
-  #   url: /markdown/
