@@ -2,7 +2,6 @@
 title: "BPM Implementation Plan – TripMate Smart Travel Ecosystem"
 excerpt: "Applied design thinking and BPMN to design AS-IS and TO-BE process models for TripMate, a smart travel planning platform integrating AI itinerary generation, booking, transport, and loyalty features into one ecosystem."
 collection: portfolio
-date: 2025-02-01
 header:
   teaser: "https://static.wixstatic.com/media/c53cc1_951a1194accf47bba37c8b3b7fc7e933~mv2.png/v1/fill/w_400,h_267,al_c,q_80,enc_avif,quality_auto/c53cc1_951a1194accf47bba37c8b3b7fc7e933~mv2.png"
 ---

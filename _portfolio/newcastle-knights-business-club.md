@@ -2,9 +2,8 @@
 title: "Newcastle Knights – Business Club Proposal"
 excerpt: "Developed a 2-tier Business Club proposal for the Newcastle Knights Commercial Team using Power BI and Excel, projecting a 20% improvement in corporate member retention and a 30% faster identification of a suitable program structure."
 collection: portfolio
-date: 2025-08-01
 header:
-  teaser: "https://static.wixstatic.com/media/c53cc1_d5b2f9a6a20049c299927c15a6185e32~mv2.jpg/v1/fill/w_502,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c53cc1_d5b2f9a6a20049c299927c15a6185e32~mv2.jpg"
+  teaser: "https://www.google.com/imgres?q=newcastle%20knights&imgurl=https%3A%2F%2Fwww.newcastleknights.com.au%2Fsiteassets%2Fbranding%2Fknights-shareable-image.jpg%3Fcenter%3D0.3%252C0.5%26preset%3Dshare&imgrefurl=https%3A%2F%2Fwww.newcastleknights.com.au%2F&docid=AZbcJcYjFhkMiM&tbnid=Fwghtubt2mgLOM&vet=12ahUKEwiZ6t6sgY6VAxVdr1YBHRvdLy0QnPAOegQIHhAB..i&w=600&h=315&hcb=2&ved=2ahUKEwiZ6t6sgY6VAxVdr1YBHRvdLy0QnPAOegQIHhAB"
 ---
 
 ## Overview

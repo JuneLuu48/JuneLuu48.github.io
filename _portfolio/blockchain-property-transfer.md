@@ -2,7 +2,6 @@
 title: "Property Ownership Transferring using Blockchain"
 excerpt: "Designed and implemented a decentralised escrow solution using Ethereum smart contracts, NFTs, and a React/Web3 dApp to automate property ownership transfers, improving transaction security, transparency, and efficiency."
 collection: portfolio
-date: 2025-05-01
 header:
   teaser: "https://static.wixstatic.com/media/c53cc1_9af8496d38a84f1c96c2ac77454bb932~mv2.webp/v1/fill/w_400,h_200,al_c,q_80,enc_avif,quality_auto/c53cc1_9af8496d38a84f1c96c2ac77454bb932~mv2.webp"
 ---

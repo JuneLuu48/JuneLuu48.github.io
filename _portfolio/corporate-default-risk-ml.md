@@ -2,7 +2,6 @@
 title: "Prediction of Corporate Default Risk Using Machine Learning"
 excerpt: "Built and tuned a Decision Tree classifier to predict firm default probability using financial variables including leverage, liquidity, and cash flow, achieving up to 92% accuracy across four compared ML models."
 collection: portfolio
-date: 2025-01-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_8c3772da832d4e20b2cf736fb543e51f~mv2.jpg/v1/fill/w_400,h_225,al_c,q_80,enc_avif,quality_auto/nsplsh_8c3772da832d4e20b2cf736fb543e51f~mv2.jpg"
 ---
