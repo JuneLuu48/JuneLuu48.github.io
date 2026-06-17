@@ -2,7 +2,6 @@
 title: "Solving Inventory Management Failure using BI"
 excerpt: "Designed a BI-enhanced ERP improvement framework to address inventory management failures at Target Canada, using Power BI, Power Query, and machine learning concepts to support real-time tracking and centralised reporting."
 collection: portfolio
-date: 2025-06-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_c36f5ae1518f45b7bf5d0fb3bdbbafd1~mv2.jpg/v1/fill/w_400,h_300,al_c,q_80,enc_avif,quality_auto/nsplsh_c36f5ae1518f45b7bf5d0fb3bdbbafd1~mv2.jpg"
 ---
