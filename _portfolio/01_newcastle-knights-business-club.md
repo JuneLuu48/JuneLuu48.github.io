@@ -3,7 +3,7 @@ title: "Newcastle Knights – Business Club Proposal"
 excerpt: "Developed a 2-tier Business Club proposal for the Newcastle Knights Commercial Team using Power BI and Excel, projecting a 20% improvement in corporate member retention and a 30% faster identification of a suitable program structure."
 collection: portfolio
 header:
-  teaser: "images/NK logo.jpg"
+  teaser: "C:/Users/buuqu/OneDrive/Documents/GitHub/JuneLuu48.github.io/images/NK logo.jpg"
 ---
 
 ## Overview
