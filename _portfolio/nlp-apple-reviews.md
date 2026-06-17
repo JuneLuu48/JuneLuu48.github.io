@@ -2,7 +2,6 @@
 title: "Text Analytics on Apple Customer Reviews using NLP"
 excerpt: "Built a Python-based NLP pipeline applying sentiment analysis and LDA topic modelling to over 1,000 Apple customer reviews, transforming unstructured feedback into actionable business insights for decision-makers."
 collection: portfolio
-date: 2025-03-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_a91b279843bf43568fdffac79ef1b95e~mv2.jpg/v1/fill/w_300,h_400,al_c,q_80,enc_avif,quality_auto/nsplsh_a91b279843bf43568fdffac79ef1b95e~mv2.jpg"
 ---
