@@ -2,7 +2,6 @@
 title: "Multi-agent AI for Wildlife Detection using YOLOv8x"
 excerpt: "Developed an AI-powered multi-agent system using YOLOv8x for real-time wildlife detection and proactive driver alerts near forested roads, contributing to transport safety and biodiversity conservation."
 collection: portfolio
-date: 2025-04-01
 header:
   teaser: "https://static.wixstatic.com/media/nsplsh_456572787a7448436a4d38~mv2_d_4804_3207_s_4_2.jpg/v1/fill/w_400,h_267,al_c,q_80,enc_avif,quality_auto/nsplsh_456572787a7448436a4d38~mv2_d_4804_3207_s_4_2.jpg"
 ---
