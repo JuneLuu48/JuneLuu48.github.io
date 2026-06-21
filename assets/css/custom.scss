@@ -1,0 +1,270 @@
+---
+---
+
+/* ============================================================
+   June Luu — Visual System
+   Ink Navy + Warm Amber · Dashboard-inspired, bold & modern
+   Place at: assets/css/custom.scss
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@500&display=swap');
+
+:root {
+  --navy:        #16243B;
+  --navy-soft:   #233553;
+  --amber:       #D98E3F;
+  --amber-soft:  #F2C896;
+  --paper:       #F7F4EE;
+  --card:        #FFFFFF;
+  --slate:       #5C6B7A;
+  --hairline:    #E4DFD4;
+  --font-display: "Space Grotesk", "Helvetica Neue", sans-serif;
+  --font-body:    "Source Sans 3", "Source Sans Pro", sans-serif;
+  --font-mono:    "JetBrains Mono", "SFMono-Regular", monospace;
+}
+
+/* ── Base ── */
+body {
+  background: var(--paper);
+  color: var(--navy);
+  font-family: var(--font-body);
+  line-height: 1.7;
+}
+
+a { color: var(--amber); text-decoration: none; }
+a:hover { color: var(--navy); }
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  color: var(--navy);
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-top: 2.2em;
+  padding-bottom: 0.4em;
+  border-bottom: 3px solid var(--amber);
+  display: inline-block;
+}
+
+/* ── Masthead / nav ── */
+.masthead {
+  background: var(--navy);
+  border-bottom: none;
+  box-shadow: 0 2px 12px rgba(22,36,59,0.15);
+}
+
+.masthead__inner-wrap { padding: 0.7em 1.2em; }
+
+.site-title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.2em;
+  color: #fff !important;
+  letter-spacing: -0.02em;
+}
+
+.site-title:hover { color: var(--amber-soft) !important; }
+
+.greedy-nav {
+  background: var(--navy);
+  a {
+    color: #C8D2E0;
+    font-family: var(--font-mono);
+    font-weight: 500;
+    font-size: 0.82em;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    &:hover { color: var(--amber-soft); }
+  }
+  .visible-links a::before { background: var(--amber); height: 2px; }
+}
+
+.greedy-nav__toggle { background: var(--navy); }
+
+/* ── Sidebar / author profile ── */
+.sidebar {
+  background: transparent;
+}
+
+.author__avatar img {
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 8px 24px rgba(22,36,59,0.18);
+}
+
+.author__name {
+  font-family: var(--font-display);
+  font-size: 1.25em;
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.author__bio {
+  color: var(--slate);
+  font-size: 0.9em;
+  font-family: var(--font-mono);
+}
+
+.author__urls-wrapper .author__urls a {
+  color: var(--slate);
+  font-size: 0.86em;
+  &:hover { color: var(--amber); }
+}
+
+/* ── Buttons ── */
+.btn--primary {
+  background: var(--amber);
+  border-color: var(--amber);
+  color: var(--navy);
+  font-family: var(--font-display);
+  font-weight: 700;
+  border-radius: 4px;
+  &:hover { background: var(--navy); border-color: var(--navy); color: #fff; }
+}
+
+.btn--inverse {
+  background: transparent;
+  color: var(--navy);
+  border: 2px solid var(--navy);
+  font-family: var(--font-display);
+  font-weight: 700;
+  border-radius: 4px;
+  &:hover { background: var(--navy); color: #fff; }
+}
+
+/* ── KPI strip (signature element, home page) ── */
+.kpi-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background: var(--hairline);
+  border: 1px solid var(--hairline);
+  margin: 2em 0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.kpi-tile {
+  background: var(--card);
+  padding: 1.3em 1em;
+  text-align: left;
+  border-top: 3px solid var(--amber);
+}
+
+.kpi-number {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.8em;
+  font-weight: 700;
+  color: var(--navy);
+  line-height: 1;
+}
+
+.kpi-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.72em;
+  color: var(--slate);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 0.5em;
+}
+
+@media (max-width: 768px) {
+  .kpi-strip { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* ── Portfolio grid cards ── */
+.archive__item {
+  background: var(--card);
+  border: 1px solid var(--hairline);
+  border-top: 3px solid var(--amber);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  box-shadow: 0 1px 3px rgba(22,36,59,0.06);
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 28px rgba(22,36,59,0.16);
+  }
+}
+
+.archive__item-teaser img {
+  width: 100%;
+  height: 175px;
+  object-fit: cover;
+}
+
+.archive__item-title {
+  font-family: var(--font-display);
+  font-size: 1.02em;
+  font-weight: 700;
+  color: var(--navy);
+  margin: 0.7em 0.9em 0.3em;
+  line-height: 1.3;
+
+  a { color: var(--navy); }
+  a:hover { color: var(--amber); }
+}
+
+.archive__item-excerpt {
+  font-size: 0.84em;
+  color: var(--slate);
+  margin: 0 0.9em 1em;
+  line-height: 1.55;
+}
+
+/* ── Tables (certifications, languages) ── */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9em;
+  margin: 1.2em 0;
+  border-radius: 6px;
+  overflow: hidden;
+
+  th {
+    background: var(--navy);
+    color: #fff;
+    font-family: var(--font-mono);
+    font-size: 0.78em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.65em 1em;
+    text-align: left;
+  }
+
+  td {
+    padding: 0.6em 1em;
+    border-bottom: 1px solid var(--hairline);
+    background: var(--card);
+  }
+
+  tr:nth-child(even) td { background: var(--paper); }
+}
+
+/* ── Page content polish ── */
+.page__content strong { color: var(--navy); font-weight: 700; }
+
+.page__content p:first-of-type {
+  font-size: 1.08em;
+  color: var(--navy);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--hairline);
+  margin: 2.2em 0;
+}
+
+/* ── Footer ── */
+.page__footer {
+  background: var(--navy);
+  color: #8C9BB5;
+  font-size: 0.82em;
+  a { color: var(--amber-soft); }
+}
